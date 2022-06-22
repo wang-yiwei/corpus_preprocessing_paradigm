@@ -1,6 +1,6 @@
 # A Corpus Preprocessing Paradigm with spaCy
 
-![spaCy pipeline](https://user-images.githubusercontent.com/13643239/152853098-1c761611-ccb0-4ec6-9066-b234552831fe.png)
+![spaCy pipeline](https://d33wubrfki0l68.cloudfront.net/3ad0582d97663a1272ffc4ccf09f1c5b335b17e9/7f49c/pipeline-fde48da9b43661abcdf62ab70a546d71.svg)
 
 This is a paradigm for corpus preprocessing, especially for the raw text directly extreacted from the Internet.
 
