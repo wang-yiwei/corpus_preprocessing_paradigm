@@ -1,7 +1,8 @@
 # A Corpus Preprocessing Paradigm with spaCy
-This is a paradigm for corpus preprocessing, especially for the raw text directly extreacted from the Internet.
 
 ![spaCy pipeline](https://user-images.githubusercontent.com/13643239/152853098-1c761611-ccb0-4ec6-9066-b234552831fe.png)
+
+This is a paradigm for corpus preprocessing, especially for the raw text directly extreacted from the Internet.
 
 This code implementation is based on the blog [Text Preprocessing for NLP (Natural Language Processing),Beginners to Master](https://medium.com/analytics-vidhya/text-preprocessing-for-nlp-natural-language-processing-beginners-to-master-fd82dfecf95) by [Ujjawal Verma](https://medium.com/@ujjawalv05).
 
